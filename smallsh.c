@@ -65,7 +65,7 @@ Code citation: Exploration: Process API - Monitoring Child Processes
 */
 void checkBackgroundPIDs() {
 
-    // ofr-loop counter
+    // for-loop counter
     int i;
 
     // background PID
